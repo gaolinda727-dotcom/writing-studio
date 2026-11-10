@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+*.tmp
+*.log
+.DS_Store
+WritingStudio_学习备份_*.json
+Writing_Studio_学习备份_*.json

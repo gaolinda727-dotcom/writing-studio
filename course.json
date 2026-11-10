@@ -1,0 +1,1136 @@
+{
+  "version": 1,
+  "title": "Writing Studio",
+  "application": [
+    {
+      "id": "email",
+      "type": "application",
+      "genre": "邮件",
+      "group": "",
+      "name": "邮件 · 把新学期写进一封邮件",
+      "title": "把新学期写进一封邮件",
+      "summary": "给英国笔友介绍新学期的学习生活，交流一项变化，并邀请对方分享近况。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，请给英国笔友 Alex 写一封邮件，交流新学期的生活。内容包括：\n1. 介绍一项学习或课外活动的变化；\n2. 说明你对这项变化的感受或安排；\n3. 询问对方的近况，期待回复。\n\n注意：写作词数应为 80 左右，使用符合邮件的格式。本题为原创示例题。",
+      "checklist": [
+        "我确认了写信对象是熟悉的笔友",
+        "我选定了一项具体变化及自己的感受",
+        "我安排了交流近况的问题和邮件结尾"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Alex,\nHow is your new term going? I have joined our school reading club, which meets every Wednesday. We choose a short English story and discuss our favorite characters. The club is good. At first, I worried about speaking, but the friendly atmosphere has helped me relax. I plan to keep a notebook of useful expressions after each meeting. Have you tried any new activities this term? I would love to hear about your school life.\nBest wishes,\nLi Hua",
+      "feedback": {
+        "snippet": "The club is good.",
+        "heading": "用具体细节替代笼统评价",
+        "explanation": "邮件交流要让读者了解真实变化。用活动如何帮助自己解释“好”在哪里。",
+        "before": "The club is good.",
+        "after": "The weekly discussions have helped me speak English with more confidence."
+      }
+    },
+    {
+      "id": "invitation",
+      "type": "application",
+      "genre": "邀请信",
+      "group": "",
+      "name": "邀请信 · 一封邀请，开启英语节",
+      "title": "一封邀请，开启英语节",
+      "summary": "邀请外教 Chris 参加校园英语节，介绍时间地点与主要活动，并邀请他担任评委。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，你校将于 11 月 20 日下午 3 点在学校礼堂举办英语节。请给外教 Chris 写一封邮件，邀请他参加。内容包括：\n1. 活动的时间、地点；\n2. 主要活动，如英文歌曲表演、短剧等；\n3. 邀请他担任评委，并期待回复。\n\n注意：写作词数应为 80 左右，使用符合邀请信的格式。本题为原创示例题。",
+      "checklist": [
+        "我确认了外教身份与邀请目的",
+        "我找到了时间、地点、活动和具体请求",
+        "我想好了礼貌的邀请语气与回复请求"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Chris,\nOur school will hold an English Festival in the school hall at 3 p.m. on November 20. Students will perform English songs and short plays. I want you to come and be a judge. Your experience would help us improve our performances and enjoy learning English. We would be grateful if you could join us. Please let me know whether the time is convenient for you. I look forward to your reply.\nYours,\nLi Hua",
+      "feedback": {
+        "snippet": "I want you to come and be a judge.",
+        "heading": "让邀请语气更得体",
+        "explanation": "写给外教时，将直接要求改成礼貌请求，并说明希望他承担的角色。",
+        "before": "I want you to come and be a judge.",
+        "after": "Would you be willing to join us as a judge?"
+      }
+    },
+    {
+      "id": "advice",
+      "type": "application",
+      "genre": "建议信",
+      "group": "",
+      "name": "建议信 · 让英语开口不再困难",
+      "title": "让英语开口不再困难",
+      "summary": "回复担心英语口语的朋友，用具体可行的方法提出建议，并给出鼓励。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，朋友 Alex 因害怕犯错而不敢在英语课上发言。请给他写一封建议信。内容包括：\n1. 表达理解与关心；\n2. 提出两条可操作的建议并说明理由；\n3. 给予鼓励。\n\n注意：写作词数应为 80 左右，使用符合建议信的格式。本题为原创示例题。",
+      "checklist": [
+        "我理解了对方不敢发言的具体原因",
+        "我准备了两条建议及理由",
+        "我检查了语气是否体谅而非命令"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Alex,\nI understand how nervous you feel about speaking English in class. You should practice more. Try recording a one-minute talk each day; listening again will help you notice small improvements. You could also prepare one question before class and discuss it with a partner first. This gives you a clear starting point when you speak to everyone. Mistakes are part of learning, and your ideas deserve to be heard. Start with one sentence tomorrow!\nYours,\nLi Hua",
+      "feedback": {
+        "snippet": "You should practice more.",
+        "heading": "把建议变成可以执行的行动",
+        "explanation": "“多练习”方向正确，但缺少频率、内容与方式。给出具体行动才能帮助对方。",
+        "before": "You should practice more.",
+        "after": "Try recording a one-minute talk about your day every evening."
+      }
+    },
+    {
+      "id": "thanks",
+      "type": "application",
+      "genre": "感谢信",
+      "group": "",
+      "name": "感谢信 · 谢谢你陪我迈出第一步",
+      "title": "谢谢你陪我迈出第一步",
+      "summary": "向帮助自己准备演讲的同学致谢，写清帮助的细节与带来的改变。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，在同学 Emma 的帮助下完成了第一次英语演讲。请写一封感谢信。内容包括：\n1. 表达感谢；\n2. 回顾她提供的一项具体帮助及其作用；\n3. 分享收获并表达祝愿。\n\n注意：写作词数应为 80 左右，使用符合感谢信的格式。本题为原创示例题。",
+      "checklist": [
+        "我明确了感谢的对象与事件",
+        "我写出了帮助的具体细节及影响",
+        "我避免了只重复感谢而没有内容"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Emma,\nThank you for helping me prepare for my first English speech. You helped me a lot. When I forgot my lines during practice, you waited patiently and showed me how to use key words instead of memorizing everything. That simple method made the speech much easier to manage. Yesterday, I finished it with a clear voice and even enjoyed the experience. Your support has given me the courage to try again. I wish you success in your coming performance.\nYours,\nLi Hua",
+      "feedback": {
+        "snippet": "You helped me a lot.",
+        "heading": "让感谢有具体依据",
+        "explanation": "读者更希望知道哪一次帮助对你产生了什么影响。写出行为和结果。",
+        "before": "You helped me a lot.",
+        "after": "Your patient practice sessions helped me turn my notes into a clear, confident speech."
+      }
+    },
+    {
+      "id": "apology",
+      "type": "application",
+      "genre": "道歉信",
+      "group": "",
+      "name": "道歉信 · 给迟到的承诺一个回应",
+      "title": "给迟到的承诺一个回应",
+      "summary": "因未能按时归还借书而道歉，说明原因，并提出明确的补救办法。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，答应周一归还朋友 Sam 的英文小说，却因疏忽未能按时归还。请给他写一封道歉信。内容包括：\n1. 为失约及造成的不便道歉；\n2. 简要说明原因，不推卸责任；\n3. 提出具体补救时间和做法。\n\n注意：写作词数应为 80 左右，使用符合道歉信的格式。本题为原创示例题。",
+      "checklist": [
+        "我明确承认了自己未按时还书的责任",
+        "我区分了说明原因与寻找借口",
+        "我给出了可落实的补救办法"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Sam,\nI am sorry that I did not return your novel on Monday as promised. I left it in my school locker and failed to check my bag before leaving. I know you wanted it for your reading group, and my carelessness caused you trouble. I will return it soon. To avoid another delay, I will bring it to your classroom before the first lesson tomorrow. Please accept my apology. I will be more careful with borrowed things.\nYours,\nLi Hua",
+      "feedback": {
+        "snippet": "I will return it soon.",
+        "heading": "让补救承诺具体可信",
+        "explanation": "“soon”不能告诉对方何时能收到书。明确时间、地点或方式，才能体现负责。",
+        "before": "I will return it soon.",
+        "after": "I will bring the book to your classroom before the first lesson tomorrow."
+      }
+    },
+    {
+      "id": "help",
+      "type": "application",
+      "genre": "求助信",
+      "group": "",
+      "name": "求助信 · 为校园导览寻找好建议",
+      "title": "为校园导览寻找好建议",
+      "summary": "向外教求助，请他帮助检查为交换生准备的校园英文导览，并说明时间安排。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，正在为来校的交换生准备英文校园导览稿。请给外教 Mr Brown 写一封求助信。内容包括：\n1. 介绍任务与目前遇到的困难；\n2. 说明希望获得的具体帮助；\n3. 提出方便的时间或提交方式并表示感谢。\n\n注意：写作词数应为 80 左右，使用符合求助信的格式。本题为原创示例题。",
+      "checklist": [
+        "我写清了目前任务和困难",
+        "我把求助内容具体到语言或文化表达",
+        "我考虑了对方的时间与回复方式"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Mr Brown,\nI am preparing an English campus tour for visiting exchange students. Although the main route is ready, I am unsure whether my descriptions of our clubs sound natural. Could you help me? In particular, I would appreciate advice on the opening paragraph and two activity descriptions. May I email you a short draft by Wednesday? If you are available, a few comments before Friday would be very helpful. Thank you for considering my request.\nYours sincerely,\nLi Hua",
+      "feedback": {
+        "snippet": "Could you help me?",
+        "heading": "明确希望对方帮助的范围",
+        "explanation": "礼貌请求还需要说明帮助什么。限定到具体段落或问题，便于对方回应。",
+        "before": "Could you help me?",
+        "after": "Could you check whether the opening and club descriptions sound natural to international students?"
+      }
+    },
+    {
+      "id": "recommendation",
+      "type": "application",
+      "genre": "推荐信",
+      "group": "",
+      "name": "推荐信 · 推荐一本值得共读的书",
+      "title": "推荐一本值得共读的书",
+      "summary": "为学校英语读书会推荐一本书，介绍特点，并说明它适合共读的原因。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，校英语读书会正在征集下一期共读书目。请给负责人写一封推荐信。内容包括：\n1. 推荐一本适合高中生阅读的书；\n2. 介绍主要内容或特点；\n3. 说明推荐理由及可开展的讨论活动。\n\n注意：写作词数应为 80 左右，使用符合推荐信的格式。本题为原创示例题。",
+      "checklist": [
+        "我选定了书目而不是只推荐阅读习惯",
+        "我用简要介绍支持推荐理由",
+        "我说明了它为何适合读书会共读"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Reading Club Organizer,\nI would like to recommend The Secret Garden for our next shared reading. It tells the story of a lonely girl who discovers a neglected garden and gradually builds friendships. The book is interesting. Its clear characters and hopeful theme could encourage us to discuss how people change through kindness. We could choose a favorite scene and explain what it reveals about a character. I believe this activity would make our reading both enjoyable and thoughtful.\nYours,\nLi Hua",
+      "feedback": {
+        "snippet": "The book is interesting.",
+        "heading": "让推荐理由与读者需求对应",
+        "explanation": "“有趣”过于宽泛。说明人物、主题或语言如何适合高中生与共读活动。",
+        "before": "The book is interesting.",
+        "after": "Its changing friendships offer clear examples for a discussion of personal growth."
+      }
+    },
+    {
+      "id": "application",
+      "type": "application",
+      "genre": "申请信",
+      "group": "",
+      "name": "申请信 · 申请成为校园英文导览员",
+      "title": "申请成为校园英文导览员",
+      "summary": "申请交换生活动志愿者岗位，用相关经历说明优势，并表达服务意愿。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，学校招募交换生活动的英文导览志愿者。请给负责人写一封申请信。内容包括：\n1. 说明申请岗位与动机；\n2. 用一项经历说明自己的相关能力；\n3. 表达可参与的时间与期待。\n\n注意：写作词数应为 80 左右，使用符合申请信的格式。本题为原创示例题。",
+      "checklist": [
+        "我明确了申请的具体岗位",
+        "我用经历证明能力而不只罗列形容词",
+        "我交代了时间安排与服务意愿"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Sir or Madam,\nI am writing to apply to be an English campus guide for the exchange program. I enjoy meeting students from different backgrounds and would like to help them feel welcome. I am good at English. Last term, I introduced our library to a visiting group and answered questions about school life. That experience taught me to speak clearly and listen patiently. I am available on Friday afternoon and would welcome an interview. Thank you for considering my application.\nYours sincerely,\nLi Hua",
+      "feedback": {
+        "snippet": "I am good at English.",
+        "heading": "用与岗位相关的经历证明优势",
+        "explanation": "申请信中的能力需要证据。选用真实情境说明你做过什么，以及与岗位的关系。",
+        "before": "I am good at English.",
+        "after": "My experience guiding a visiting group has prepared me to explain school life clearly in English."
+      }
+    },
+    {
+      "id": "informing",
+      "type": "application",
+      "genre": "告知信",
+      "group": "",
+      "name": "告知信 · 让远道而来的朋友心中有数",
+      "title": "让远道而来的朋友心中有数",
+      "summary": "向即将到校的交换生告知个人接待安排，写清见面地点、活动与准备事项。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，交换生 Alex 下周一到校，你负责接待。请给他写一封告知信。内容包括：\n1. 告知见面时间和地点；\n2. 介绍当天的主要安排；\n3. 提醒携带物品，并表示期待。\n\n注意：写作词数应为 80 左右，使用符合告知信的格式。本题为原创示例题。",
+      "checklist": [
+        "我确认了告知对象是即将到校的个人",
+        "我按时间顺序组织了接待安排",
+        "我明确了见面信息和准备事项"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear Alex,\nI am glad you will join us next Monday. Here are the arrangements for your first day. We will meet in the morning. I will be waiting at the main school gate at 8 a.m. After a short campus tour, you will join our English class and have lunch with my classmates. Please bring your student card and a notebook for the activities. If your arrival time changes, feel free to email me. I look forward to meeting you!\nYours,\nLi Hua",
+      "feedback": {
+        "snippet": "We will meet in the morning.",
+        "heading": "让告知信息准确可执行",
+        "explanation": "个人接待需要明确时间、地点，不能仅用模糊的“早上”。",
+        "before": "We will meet in the morning.",
+        "after": "I will meet you at the main school gate at 8 a.m. next Monday."
+      }
+    },
+    {
+      "id": "notice",
+      "type": "application",
+      "genre": "通知",
+      "group": "",
+      "name": "通知 · 英语短剧工作坊开课啦",
+      "title": "英语短剧工作坊开课啦",
+      "summary": "面向全校发布英语短剧工作坊通知，交代活动信息、参加要求和报名方式。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "你是校英语社负责人，请用英语发布一则面向全校学生的书面通知。内容包括：\n1. 周五下午 4 点在图书馆活动室举行英语短剧工作坊；\n2. 说明主要内容及参加者需要准备什么；\n3. 告知周四前向英语社报名。\n\n注意：写作词数应为 80 左右，使用符合通知的格式。本题为原创示例题。",
+      "checklist": [
+        "我使用了面向群体的通知格式",
+        "我交代了时间、地点、内容与准备要求",
+        "我写清了报名渠道和截止时间"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "NOTICE\nEnglish Drama Workshop\nAn English drama workshop will be held in the library activity room at 4 p.m. this Friday. Participants will learn how to express emotions through voice and movement, then perform a short scene in groups. No acting experience is required. Please bring a notebook and prepare to introduce a favorite character in English. Come and join us. To attend, register with the English Club before Thursday. We look forward to seeing your creativity on stage.\nThe English Club",
+      "feedback": {
+        "snippet": "Come and join us.",
+        "heading": "让参加指引清楚完整",
+        "explanation": "通知除了吸引读者，还应告诉大家怎样参加。把报名渠道与期限连在一起。",
+        "before": "Come and join us.",
+        "after": "Register with the English Club before Thursday to reserve your place."
+      }
+    },
+    {
+      "id": "speech",
+      "type": "application",
+      "genre": "演讲稿",
+      "group": "",
+      "name": "演讲稿 · 给校园留一点绿色",
+      "title": "给校园留一点绿色",
+      "summary": "在校园环保活动中发表短篇演讲，用具体日常行动倡导绿色生活。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "假定你是李华，将在学校“绿色校园日”上发表英语演讲。内容包括：\n1. 说明节约资源与校园生活的联系；\n2. 提出两项学生可以实施的行动；\n3. 发出鼓励大家参与的号召。\n\n注意：写作词数应为 80 左右，使用符合演讲稿的格式。本题为原创示例题。",
+      "checklist": [
+        "我考虑了现场听众与演讲语气",
+        "我提出了具体行动而不是只喊口号",
+        "我安排了有感染力的开场和结尾"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Good morning, everyone!\nA greener school starts with the choices we make every day. Think of the lights left on in empty classrooms or the paper used on only one side. We should protect the environment. We can begin by switching off unused lights and keeping a box for reusable paper in each classroom. These small actions cost little but save resources together. Let us choose one habit today and encourage a friend to join us. Our campus can grow greener with us.\nThank you!",
+      "feedback": {
+        "snippet": "We should protect the environment.",
+        "heading": "把演讲口号落到听众行动",
+        "explanation": "面向学生的演讲要告诉听众今天就能做什么。具体行动比泛泛要求更有力量。",
+        "before": "We should protect the environment.",
+        "after": "Before leaving a classroom today, check whether the lights and fans are off."
+      }
+    },
+    {
+      "id": "proposal",
+      "type": "application",
+      "genre": "倡议书",
+      "group": "",
+      "name": "倡议书 · 把闲置的好书传下去",
+      "title": "把闲置的好书传下去",
+      "summary": "向全校同学发起旧书交换倡议，说明意义、参与方式与具体行动安排。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "校学生会准备开展“让好书继续旅行”活动。请以学生会名义写一份英语倡议书。内容包括：\n1. 说明旧书交换的意义；\n2. 倡议带来一本保存完好的书并附推荐卡；\n3. 告知周五午间送至图书馆收集处，呼吁参与。\n\n注意：写作词数应为 80 左右，使用符合倡议书的格式。本题为原创示例题。",
+      "checklist": [
+        "我区分了倡议书的行动呼吁与一般活动说明",
+        "我把参与步骤写得简单明确",
+        "我用共同价值支持倡议理由"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Dear fellow students,\nMany good books sit quietly on our shelves after we finish reading them. Let us give these stories new readers through our book exchange. We should share books. Choose one book in good condition and add a short card explaining why you enjoyed it. Bring it to the library collection desk at lunchtime this Friday. By passing a book to someone else, we save resources and share ideas. Join us and let a favorite story begin another journey!\nThe Student Union",
+      "feedback": {
+        "snippet": "We should share books.",
+        "heading": "让倡议包含具体的第一步",
+        "explanation": "倡议需要引导读者行动。说清带什么、如何准备，比只强调“分享”更有效。",
+        "before": "We should share books.",
+        "after": "Choose a book in good condition and attach a short recommendation card."
+      }
+    },
+    {
+      "id": "diary",
+      "type": "application",
+      "genre": "日记",
+      "group": "",
+      "name": "日记 · 第一次做志愿者的那一天",
+      "title": "第一次做志愿者的那一天",
+      "summary": "以日记记录图书馆志愿服务，描述一件具体事件，并反思自己的收获。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "你第一次参加学校图书馆志愿服务。请用英语写一篇日记。内容包括：\n1. 简要记录当天的任务；\n2. 描述一次遇到困难并尝试解决的经历；\n3. 写下个人感受与收获。日期与天气可自拟。\n\n注意：写作词数应为 80 左右，使用符合日记的格式。本题为原创示例题。",
+      "checklist": [
+        "我使用日记日期与第一人称叙述",
+        "我按事件过程写出了具体经历",
+        "我在结尾表达了自己的真实反思"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "Monday, November 10\nSunny\nToday I worked as a library volunteer for the first time. My task was to return books to the correct shelves. At first, the different numbers confused me, and I put several books in the wrong place. I asked an experienced volunteer for help and learned to check the labels before moving on. Later, I helped a younger student find a storybook. I felt good. I realized that careful work can make another person's day a little easier.",
+      "feedback": {
+        "snippet": "I felt good.",
+        "heading": "把日记的感受写成具体认识",
+        "explanation": "日记反思可以说明事件如何改变了你的想法，而不是只说“感觉好”。",
+        "before": "I felt good.",
+        "after": "Helping the younger student showed me why even a small task deserves patience."
+      }
+    },
+    {
+      "id": "poster",
+      "type": "application",
+      "genre": "海报",
+      "group": "",
+      "name": "海报 · 让你的旧书遇见新读者",
+      "title": "让你的旧书遇见新读者",
+      "summary": "为校园旧书交换设计英文海报，用醒目的标题和简洁信息吸引同学报名参与。",
+      "short": "应用文",
+      "max": 15,
+      "target": 80,
+      "time": 20,
+      "prompt": "请为校园“Book Swap”旧书交换活动设计一份英文海报。内容包括：\n1. 用醒目的标题说明活动与吸引点；\n2. 告知周五下午 4 点在图书馆门厅举行，参与者带一本保存完好的英文书；\n3. 写清提前向英语社登记的方式，并发出号召。\n\n注意：写作词数应为 80 左右，使用符合海报的格式。本题为原创示例题。",
+      "checklist": [
+        "我使用标题与简短信息块突出重点",
+        "我交代了时间、地点、携带物品与登记方式",
+        "我检查了号召是否简洁而有吸引力"
+      ],
+      "dimensions": [
+        [
+          "内容与任务",
+          6
+        ],
+        [
+          "语言表达",
+          6
+        ],
+        [
+          "篇章组织",
+          3
+        ]
+      ],
+      "sample": "BOOK SWAP\nA new reader. A new adventure.\nFinished a wonderful English book? Give it a new home and discover another story!\nWHEN: Friday, 4 p.m.\nWHERE: School Library Hall\nBRING: One English book in good condition, with a note about why you recommend it.\nHOW TO JOIN: Sign up with the English Club before Thursday.\nYou can meet fellow readers, exchange ideas, and leave with a book you might never have found alone.\nDo not miss this chance. Share a story; start a conversation!",
+      "feedback": {
+        "snippet": "Do not miss this chance.",
+        "heading": "让海报号召紧扣活动特色",
+        "explanation": "用“交换一本书、开启一段阅读”这样的表达突出活动亮点，比通用口号更有辨识度。",
+        "before": "Do not miss this chance.",
+        "after": "Bring one book. Find a new story. Meet your next reading friend."
+      }
+    }
+  ],
+  "continuationGroups": [
+    {
+      "id": "self",
+      "title": "人与自我",
+      "description": "在成长、勇气与自我认识中，写出人物内心的变化。",
+      "items": [
+        {
+          "id": "personal-growth",
+          "type": "continuation",
+          "genre": "个人成长",
+          "group": "人与自我",
+          "name": "个人成长 · 把一小时交给责任",
+          "title": "把一小时交给责任",
+          "summary": "从逃避值班到独立承担任务，续写一名图书馆志愿者如何在小事中成长。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "On his first day as a library volunteer, Leo expected an easy afternoon. He planned to arrange a few books and then read his favorite comic. However, the librarian, Mrs Wang, handed him a list of returns and showed him the children's reading corner. A story session would begin there in an hour.\n\nLeo nodded without listening carefully. While Mrs Wang helped a visitor, he put several books on the wrong shelf and left a box beside the entrance. Soon, a little girl asked him for a story about the sea. Leo searched the shelves but could not find it.\n\nHe looked at the list again and recognized the title. It was one of the books he had moved. Across the room, Mrs Wang was still busy, and more children were arriving. Leo closed his comic and stood up.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Leo took the list and began checking the shelves carefully.\nParagraph 2: When Mrs Wang returned, the children were sitting in a tidy reading corner.",
+          "checklist": [
+            "我明确了 Leo 从敷衍到愿意负责的转折",
+            "我找到了归还清单、错放图书和故事会等线索",
+            "我用具体补救行动而非空泛说教体现成长"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Leo took the list and began checking the shelves carefully. This time, he matched every title with its label instead of guessing. After several minutes, he found the sea story behind a row of science books. He handed it to the little girl and apologized for the wait. Then he moved the box away from the entrance and arranged chairs for the session. When a younger child looked confused, Leo offered to show him where to sit.\n\nWhen Mrs Wang returned, the children were sitting in a tidy reading corner. Leo explained what had gone wrong and how he had corrected it. She thanked him for being honest and asked him to introduce the first book. Leo was proud. As he opened the story, he realized that being trusted was not about having an easy task. It was about paying attention and doing that task well.",
+          "feedback": {
+            "snippet": "Leo was proud.",
+            "heading": "让成长通过行为显现",
+            "explanation": "用他主动承担后续任务的举动呈现责任感，比单独说自豪更有说服力。",
+            "before": "Leo was proud.",
+            "after": "Leo straightened the book list and volunteered to organize the next story session."
+          }
+        },
+        {
+          "id": "overcome-shyness",
+          "type": "continuation",
+          "genre": "突破胆怯",
+          "group": "人与自我",
+          "name": "突破胆怯 · 说出属于自己的那一句",
+          "title": "说出属于自己的那一句",
+          "summary": "面对班级英语展示的紧张，续写主人公如何借助准备与支持迈出表达的第一步。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "Nina loved collecting stories about her hometown, but she usually kept them in her notebook. When her English teacher announced a three-minute presentation about a local place, she immediately thought of the old bridge near her home. Then she imagined thirty classmates watching her, and her excitement disappeared.\n\nFor three evenings, Nina wrote and crossed out the same opening sentence. Her brother, who had listened to her bridge stories many times, asked why she was so quiet. She admitted that she wanted to share the story but feared forgetting every word.\n\nHe suggested drawing a small map instead of memorizing a page of sentences. Nina marked the bridge, the river and her grandmother's house. On the morning of the presentation, she folded the map into her pocket. When her name was called, her hands began to shake.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Nina placed the small map on the desk and took a breath.\nParagraph 2: When the presentation ended, a classmate raised his hand.",
+          "checklist": [
+            "我区分了想分享故事与害怕公众表达的矛盾",
+            "我把地图这一线索用于推动情节",
+            "我设计了紧张逐步缓解而非突然消失的过程"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Nina placed the small map on the desk and took a breath. For a moment, she could only hear the clock. Then she pointed to the bridge and described walking there with her grandmother. Her first sentence was quiet, but a few classmates leaned forward to listen. When she forgot a detail, she looked at the next mark on the map and continued. Gradually, the familiar river in her story replaced the frightening faces in her imagination.\n\nWhen the presentation ended, a classmate raised his hand. He wanted to know whether the bridge was still open to visitors. Nina answered and even explained the best time to see it. She felt happy. On her way back to her seat, she noticed that her hands were steady. Speaking had not become easy in three minutes, but she had learned that she could begin while still feeling afraid.",
+          "feedback": {
+            "snippet": "She felt happy.",
+            "heading": "用动作呈现胆怯后的突破",
+            "explanation": "主人公的进步可以由主动补充信息来表现，避免突然变得完全不紧张。",
+            "before": "She felt happy.",
+            "after": "Nina unfolded the map again and offered to show him the route after class."
+          }
+        },
+        {
+          "id": "overcome-setback",
+          "type": "continuation",
+          "genre": "战胜挫折",
+          "group": "人与自我",
+          "name": "战胜挫折 · 重新站起来的纸桥",
+          "title": "重新站起来的纸桥",
+          "summary": "模型测试失败后，续写两位同学如何分析原因、调整方案，并重新面对挑战。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "For two weeks, Oliver and his classmate Mei had worked on a paper bridge for the school design challenge. The rules were simple: use only paper and glue, then see how much weight the bridge could support. Oliver was proud of their smooth, wide design.\n\nDuring the final practice, he placed the first small weight in the middle. The bridge bent sharply and collapsed. Their friends fell silent. Oliver pushed the broken pieces aside and said there was no point in entering the next morning.\n\nMei picked up one folded strip and compared it with a sketch in their notebook. She noticed that the sides had stayed strong while the center had failed. There was still some paper left, but they would need a simpler design. She moved an empty chair beside Oliver and opened the notebook between them.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Mei asked Oliver to look closely at the broken bridge.\nParagraph 2: The next morning, they carried a different bridge into the classroom.",
+          "checklist": [
+            "我找到桥梁失败的具体位置与可用线索",
+            "我安排了观察、讨论和改进设计的过程",
+            "我避免了无缘由获胜，让收获来自解决问题"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Mei asked Oliver to look closely at the broken bridge. At first, he kept his eyes on the floor. Then she showed him the strong folded sides and the weak center. Together, they drew a narrower bridge with extra folds underneath. They tested one section before building the rest, recording what worked instead of guessing. The new bridge looked less impressive, but it held several weights. Oliver carefully packed it, determined to try.\n\nThe next morning, they carried a different bridge into the classroom. When their turn came, Oliver placed each weight slowly while Mei counted. Their bridge did not win the top prize, but it supported far more than the first design. Oliver was pleased. Looking at their marked notebook, he understood that failure had given them information. The important change was not only in the bridge, but in the way they faced a problem together.",
+          "feedback": {
+            "snippet": "Oliver was pleased.",
+            "heading": "把挫折后的收获写具体",
+            "explanation": "通过他对失败记录的态度变化表现成长，让结尾回应开头的放弃念头。",
+            "before": "Oliver was pleased.",
+            "after": "Oliver kept the broken strip beside their results, ready to explain what it had taught them."
+          }
+        },
+        {
+          "id": "self-acceptance",
+          "type": "continuation",
+          "genre": "自我接纳",
+          "group": "人与自我",
+          "name": "自我接纳 · 不一样的颜色也会发光",
+          "title": "不一样的颜色也会发光",
+          "summary": "从比较中否定自己，到发现个人表达的价值，续写主人公完成画展作品的过程。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "For the school art exhibition, each student was asked to create a picture of a place that mattered to them. Ava chose her grandmother's kitchen, where she had spent many happy afternoons. She filled the page with bright colors and uneven shapes.\n\nThen she saw her friend Ruby's careful drawing of a city street. Every window seemed perfect. Ava looked back at her own work and felt embarrassed. She decided to start again and copy Ruby's realistic style.\n\nAfter an hour, Ava's new page was covered in faint lines and eraser marks. Ruby came over and noticed the colorful picture half hidden under a book. She asked why the kitchen window was yellow. Ava explained that her grandmother always called the afternoon light their little indoor sun. As she spoke, she uncovered more of the picture.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Ruby asked Ava to tell her about the other colors.\nParagraph 2: On exhibition day, Ava stood beside her picture of the kitchen.",
+          "checklist": [
+            "我理解了比较造成的不自信以及画作的个人意义",
+            "我找到了黄色窗户和奶奶回忆等独特细节",
+            "我让自我接纳来自具体发现而非他人一句夸奖"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Ruby asked Ava to tell her about the other colors. The blue table reminded Ava of rainy afternoons, and the red bowls were the ones her grandmother used for noodles. As she explained each choice, she realized that the picture held memories a realistic copy could not replace. Ruby listened, then suggested adding a small note about the kitchen. Ava picked up her brush and finished the original picture in her own style.\n\nOn exhibition day, Ava stood beside her picture of the kitchen. A younger student stopped to read the note and said the warm colors reminded him of home. Ava smiled. Nearby, Ruby's detailed city street attracted another group. Both pictures belonged in the room. Ava no longer wanted hers to look like someone else's. The uneven shapes still remained, but now she saw them as part of the way she told her story.",
+          "feedback": {
+            "snippet": "Ava smiled.",
+            "heading": "让自我接纳落在表达行动中",
+            "explanation": "让主人公主动分享作品背后的记忆，比单写微笑更能体现她认可自己的表达。",
+            "before": "Ava smiled.",
+            "after": "Ava pointed to the yellow window and began sharing the memory she had once been afraid to show."
+          }
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "title": "人与社会",
+      "description": "从人与人的相遇出发，描写理解、善意与文化交流。",
+      "items": [
+        {
+          "id": "reconciliation",
+          "type": "continuation",
+          "genre": "亲情友情和解",
+          "group": "人与社会",
+          "name": "亲情友情和解 · 那本没有归还的笔记",
+          "title": "那本没有归还的笔记",
+          "summary": "误会让两位朋友停止合作，一张意外找到的图纸，为道歉与重新理解彼此带来机会。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "Emma and Mia had prepared for the school science competition together for weeks. Emma kept their ideas in a blue notebook, including a drawing she had spent an entire evening improving. On Monday, she discovered that a page had been torn out. Mia was the last person who had borrowed it.\n\nWithout asking any questions, Emma accused her friend of ruining their work. Mia tried to explain, but Emma walked away. For the next two days, they sat separately and worked in silence. Their unfinished model remained on a classroom shelf.\n\nOn Thursday, Emma found the missing page inside her own textbook. She had placed it there to keep it flat. Looking at the familiar drawing, she remembered what she had said. Across the room, Mia was quietly packing the model into a box.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Emma took the page and walked slowly towards Mia.\nParagraph 2: The next afternoon, they stood beside their completed model.",
+          "checklist": [
+            "我找到了误会产生的原因以及 Emma 发现的事实",
+            "我想好了具体的道歉、回应与关系修复过程",
+            "我确认第二段首句要求两人已经重新合作完成模型"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Emma took the page and walked slowly towards Mia. Her fingers tightened around its edges. “I found it in my textbook,” she said. “You did nothing wrong. I should have listened.” Mia looked at the drawing and then at her friend. For a moment, neither spoke. Finally, Mia opened the box and placed the unfinished model on the desk. “We still need to fix this part,” she said. Emma pulled up a chair, grateful for the chance to begin again.\n\nThe next afternoon, they stood beside their completed model. When a judge asked about their teamwork, Emma glanced at Mia. “We learned to listen before making judgments,” she answered. Mia smiled and explained their design. They did not know whether they would win, but the space between them no longer felt uncomfortable. Their friendship mattered more than any prize.",
+          "feedback": {
+            "snippet": "I should have listened.",
+            "heading": "让道歉回应原文中的具体错误",
+            "explanation": "道歉时明确承认“没有听解释就指责”的错误，让关系修复有依据。",
+            "before": "I should have listened.",
+            "after": "I should have listened to your explanation instead of blaming you before I knew what had happened."
+          }
+        },
+        {
+          "id": "teacher-care",
+          "type": "continuation",
+          "genre": "师生温暖",
+          "group": "人与社会",
+          "name": "师生温暖 · 演讲稿上的一颗星",
+          "title": "演讲稿上的一颗星",
+          "summary": "老师用耐心的倾听与具体练习，帮助一位想退出英语演讲的学生重新相信自己的声音。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "For a week, Daniel had avoided looking at the list on the classroom wall. His name appeared under Friday's English speech contest. He had agreed to enter because he loved the topic, but speaking before an audience was another matter.\n\nDuring Thursday's practice, his voice grew so quiet that even his classmates in the front row could hardly hear him. He stopped halfway through and folded his speech into a small square. After the lesson, he stayed behind to ask his teacher, Ms Chen, to remove his name.\n\nMs Chen listened without interrupting. Then she unfolded the paper and pointed to a sentence about Daniel's grandfather. “This is a story worth hearing,” she said, drawing a small star beside it. She placed an empty chair near the front of the room and invited him to try something different.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: “Tell the story to just one person,” Ms Chen suggested.\nParagraph 2: On Friday, Daniel noticed a small star on his speech before stepping onto the stage.",
+          "checklist": [
+            "我区分了 Daniel 喜欢表达与害怕公开演讲的矛盾",
+            "我想好了老师通过具体支持帮助学生练习的过程",
+            "我安排了星号从练习到正式演讲的情节呼应"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "“Tell the story to just one person,” Ms Chen suggested. Daniel sat opposite her and began again. This time, he pictured his grandfather waiting patiently beside an old bicycle. His voice became clearer as he described their afternoon rides. When he forgot a sentence, Ms Chen waited rather than finishing it for him. After several attempts, Daniel unfolded the paper and held it more loosely. The speech was still difficult, but it no longer seemed impossible.\n\nOn Friday, Daniel noticed a small star on his speech before stepping onto the stage. He found Ms Chen in the audience and took a slow breath. His opening words shook, yet he continued with his grandfather's story. He finished the speech. As the applause began, he saw his teacher raise a thumb. Daniel smiled, knowing that her patient attention had helped him trust his own voice.",
+          "feedback": {
+            "snippet": "He finished the speech.",
+            "heading": "把完成任务的时刻写具体",
+            "explanation": "补充停顿、抬头或说完最后一句的动作，呈现他如何面对紧张。",
+            "before": "He finished the speech.",
+            "after": "He paused, lifted his eyes from the paper, and delivered the final sentence in a clear voice."
+          }
+        },
+        {
+          "id": "kindness",
+          "type": "continuation",
+          "genre": "陌生人善意相助",
+          "group": "人与社会",
+          "name": "陌生人善意相助 · 雨中的那把蓝色雨伞",
+          "title": "雨中的那把蓝色雨伞",
+          "summary": "雨天放学后，Lily 选择留下陪伴等待爷爷的小男孩，续写这份善意如何获得回应。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "Lily stood at the school gate, watching the rain pour down. She had forgotten her umbrella again, and the walk home would take twenty minutes. Most students had already left.\n\nThen she noticed a little boy sitting on the steps near the school office. He held a small blue umbrella, but tears were rolling down his cheeks. Lily walked over and gently asked what was wrong. The boy explained that he was waiting for his grandfather, who was usually there much earlier. He knew he should stay near the gate, but he was frightened.\n\nLily checked her phone. Her mother was expecting her soon. She could hurry home, or she could stay until someone came. She called her mother, explained the situation, and asked a nearby member of staff to help contact the boy's family.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Lily sat down beside the boy and began to talk to him.\nParagraph 2: Just then, an old man appeared at the school gate.",
+          "checklist": [
+            "我找到了小男孩的担忧以及 Lily 面临的选择",
+            "我安排了安抚、等候和爷爷到来的合理过程",
+            "我想好了蓝色雨伞如何在结尾呼应善意"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Lily sat down beside the boy and began to talk to him. She asked about his favorite stories and listened as he described a brave little rabbit. Gradually, his hands relaxed around the umbrella. The staff member returned to say that his grandfather was on the way. Lily smiled and helped the boy count the puddles beside the steps. Soon, he was laughing instead of crying.\n\nJust then, an old man appeared at the school gate. The boy jumped up and called out, waving his blue umbrella. His grandfather explained that a delayed bus had held him up, then thanked Lily and the staff member. Lily was happy. Before they left, the boy lifted the umbrella towards her. “You can share it,” he said. With her mother's agreement, Lily walked beside them to the nearby bus stop, warmed by a small kindness returned.",
+          "feedback": {
+            "snippet": "Lily was happy.",
+            "heading": "用动作呈现善意得到回应的感受",
+            "explanation": "结尾已有分享雨伞的细节，可以用笑容或动作代替笼统的情绪词。",
+            "before": "Lily was happy.",
+            "after": "A smile spread across Lily’s face as she watched the boy run into his grandfather’s arms."
+          }
+        },
+        {
+          "id": "honesty-gratitude",
+          "type": "continuation",
+          "genre": "诚信感恩",
+          "group": "人与社会",
+          "name": "诚信感恩 · 收银台上多出的零钱",
+          "title": "收银台上多出的零钱",
+          "summary": "发现店主多找了零钱，Ben 想起曾经得到的信任，在诱惑与诚实之间作出选择。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "Ben had saved for a new sketchbook for almost a month. On Saturday, he counted his coins once more and went to the small stationery shop near his school. The owner, Mr Wu, was serving several customers at once.\n\nBen chose the sketchbook and handed over a fifty-yuan note. Mr Wu gave him his change and turned to help another customer. Outside, Ben counted the money and stopped. There were twenty yuan more than there should have been.\n\nFor a moment, he imagined buying the colored pencils displayed in the window. Then he remembered how Mr Wu had once let him pay for a pen a day late when he had forgotten his wallet. Ben looked back at the crowded shop. Mr Wu was checking the cash drawer with a worried expression. Ben put the sketchbook carefully into his bag.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Ben walked back to the counter with the extra money in his hand.\nParagraph 2: On Monday, Ben opened his new sketchbook during art class.",
+          "checklist": [
+            "我理清了多找零钱、内心犹豫和过去帮助的联系",
+            "我想好了归还钱款时双方的具体言行",
+            "我让绘画内容自然回应诚信与感恩的主题"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Ben walked back to the counter with the extra money in his hand. “I think you gave me too much change,” he said, placing the notes beside the register. Mr Wu counted them and let out a breath. “Thank you for coming back,” he said. Ben explained that he remembered the forgotten-wallet incident. Mr Wu smiled. “You remembered that?” Ben nodded. He left without the colored pencils, but the sketchbook under his arm seemed more valuable than before.\n\nOn Monday, Ben opened his new sketchbook during art class. He sketched a small shop counter. In the picture, two hands met above several banknotes. When his teacher asked about it, Ben told her what had happened. He felt proud. Under the drawing, he wrote a short title: “A Small Choice.” He knew he would remember that choice whenever he turned the page.",
+          "feedback": {
+            "snippet": "He felt proud.",
+            "heading": "用与事件相关的细节承载感悟",
+            "explanation": "让人物回看自己的画或为作品命名，使感悟与归还零钱的行动相连。",
+            "before": "He felt proud.",
+            "after": "Looking at the two hands in his drawing, Ben knew he had made a choice he would not need to hide."
+          }
+        },
+        {
+          "id": "cultural-experience",
+          "type": "continuation",
+          "genre": "文化体验",
+          "group": "人与社会",
+          "name": "文化体验 · 一张剪纸里的故事",
+          "title": "一张剪纸里的故事",
+          "summary": "交换生第一次剪纸失败，在同伴的帮助中理解技艺，也发现不同文化中相似的心意。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "Sophie, an exchange student, joined a paper-cutting workshop at her Chinese school. She had seen red paper decorations in windows, but she had never made one herself. Her partner, Lin, showed her how to fold a square of paper and draw half a flower.\n\nSophie worked carefully. However, when she unfolded her paper, several petals fell onto the desk. She had cut through the parts that were meant to hold the flower together. Around her, other students were already displaying their work.\n\nShe pushed the broken pieces aside and said that she was simply not good at traditional crafts. Lin picked up one of the pieces and placed it beside her own paper. “My grandmother taught me something when I made the same mistake,” she said. Sophie looked up, curious despite her disappointment.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Lin took another sheet of red paper and invited Sophie to try again.\nParagraph 2: At the end of the workshop, Sophie held her paper flower towards the window.",
+          "checklist": [
+            "我找到了剪纸失败的具体原因和 Sophie 的感受",
+            "我安排了操作指导与文化交流而不只是介绍知识",
+            "我让最终作品体现再次尝试与相互理解"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Lin took another sheet of red paper and invited Sophie to try again. She marked where the folded edges needed to remain connected. This time, Sophie checked each line before moving the scissors. As they worked, Lin explained that her grandmother often made flowers for Spring Festival. Sophie told her about the handmade cards her family exchanged. Their traditions were different, but both carried wishes for people they loved.\n\nAt the end of the workshop, Sophie held her paper flower towards the window. Sunlight shone through its uneven petals. It was beautiful. She asked Lin if she could make another for her host family. Together, they cleared the broken pieces and folded two fresh squares. Sophie had arrived hoping to take home a perfect decoration. Instead, she was leaving with a story, a new friend, and the confidence to try again.",
+          "feedback": {
+            "snippet": "It was beautiful.",
+            "heading": "让文化体验落在可见的细节上",
+            "explanation": "通过光线、形状和人物观察呈现作品之美，避免只用 beautiful 作总结。",
+            "before": "It was beautiful.",
+            "after": "Though one petal was smaller than the others, its red shadow glowed warmly on the desk."
+          }
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title": "人与自然",
+      "description": "在自然中的选择与行动里，理解责任和生命的价值。",
+      "items": [
+        {
+          "id": "wilderness",
+          "type": "continuation",
+          "genre": "野外遇险脱困",
+          "group": "人与自然",
+          "name": "野外遇险脱困 · 雾中的红色背包",
+          "title": "雾中的红色背包",
+          "summary": "山路被大雾遮住，姐弟选择留在安全地点等待救援，续写他们如何冷静合作。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "On Saturday morning, Ming and his older sister, Anna, went walking along a marked mountain trail. Their father knew their route and expected them back before lunch. Ming carried a red backpack containing water, snacks, a map and a whistle.\n\nNear the top, thick fog suddenly covered the mountain. The next trail sign disappeared, and Anna noticed that a fallen tree blocked the path ahead. Ming suggested taking a narrow track around it, but Anna stopped him. They could not see where it led.\n\nLuckily, Anna's phone still had a signal. She called the mountain rescue service, shared their location and described the fallen tree. The operator told them to remain together in the safe clearing beside the marked trail. As the wind grew colder, Ming looked at his red backpack and remembered what else was inside.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Ming took a slow breath and opened his backpack.\nParagraph 2: Nearly an hour later, a clear whistle sounded from the trail.",
+          "checklist": [
+            "我明确了迷雾、断路和低温带来的冲突",
+            "我找到了红色背包、口哨和已共享位置等线索",
+            "我设计了留在安全地点等待救援的合理情节"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Ming took a slow breath and opened his backpack. He found the emergency blanket that his father had packed. Anna wrapped it around them while Ming placed the red backpack where it could be easily seen. They shared some water and remained in the clearing as instructed. Ming felt calmer. Instead of wandering into the fog, he checked the time and talked quietly with his sister.\n\nNearly an hour later, a clear whistle sounded from the trail. Ming answered with his own whistle. Soon, two rescue workers appeared beside the fallen tree. After checking that the children were well, they guided them along a safe route down the mountain. Their father was waiting at the visitor center. Holding him tightly, Ming realized that courage sometimes meant resisting the urge to rush ahead and making a careful decision instead.",
+          "feedback": {
+            "snippet": "Ming felt calmer.",
+            "heading": "让情绪变化与具体行动相连",
+            "explanation": "用呼吸和说话方式的变化呈现从慌乱走向冷静，呼应等待救援的决定。",
+            "before": "Ming felt calmer.",
+            "after": "Ming’s breathing slowed, and he began speaking to Anna in a steady voice."
+          }
+        },
+        {
+          "id": "animal-rescue",
+          "type": "continuation",
+          "genre": "救助动物",
+          "group": "人与自然",
+          "name": "救助动物 · 操场边安静的翅膀",
+          "title": "操场边安静的翅膀",
+          "summary": "发现受伤小鸟后，同学们联系专业人员，在等待中学会用恰当的方式提供帮助。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "After a school basketball game, Yifan noticed a small bird beside the playground fence. One wing hung strangely, and the bird did not move away when students approached. Several children wanted to pick it up and carry it home.\n\nYifan remembered a talk given by a wildlife rescue volunteer. Injured wild birds needed trained help, and frightened animals could be hurt by careless handling. He asked the children to step back and called his biology teacher, Ms Chen.\n\nMs Chen contacted a local wildlife rescue center and described the bird's condition. A rescuer was on the way, but would need about twenty minutes. Meanwhile, more students were leaving the sports building. Their noisy footsteps came closer to the fence. Yifan could not treat the bird himself, but he knew there was something useful he could do.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Yifan turned to his classmates and asked for their help.\nParagraph 2: When the rescue worker arrived, everyone quietly made space.",
+          "checklist": [
+            "我确认了受伤小鸟需要专业救助的情节前提",
+            "我找到了放学人群和等待救援的时间压力",
+            "我安排了保持距离、减少干扰和配合救援的行动"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Yifan turned to his classmates and asked for their help. Two students stood a safe distance from the fence and politely directed others along another path. Ms Chen stayed nearby while Yifan explained why they should neither touch the bird nor offer it food. Gradually, the noise around the fence faded. The bird remained still, but no one crowded around it.\n\nWhen the rescue worker arrived, everyone quietly made space. With proper equipment, she examined the bird and carefully placed it in a carrier. She thanked the students for giving it a calm place to wait. Yifan was proud. A week later, Ms Chen shared a message from the center: the bird was recovering. Looking at the playground fence, Yifan understood that helping an animal did not always mean holding it. Sometimes it meant knowing when to step back.",
+          "feedback": {
+            "snippet": "Yifan was proud.",
+            "heading": "把成就感写得更有画面",
+            "explanation": "用同学合作后的动作和神态呈现成就感，减少用一个情绪词概括。",
+            "before": "Yifan was proud.",
+            "after": "Yifan exchanged a quiet smile with his classmates as the carrier was taken to safety."
+          }
+        },
+        {
+          "id": "protect-nature",
+          "type": "continuation",
+          "genre": "守护自然",
+          "group": "人与自然",
+          "name": "守护自然 · 留给野花的一条小路",
+          "title": "留给野花的一条小路",
+          "summary": "河边野花被游客踩出的小路破坏，社团设计温和的引导，让便利与保护找到平衡。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "Every spring, a patch of wildflowers appeared beside the river in Lin's town. Her school nature club often visited the area to draw plants and record insects. This year, however, Lin found a new shortcut running straight through the flowers.\n\nAt first, she thought the damage was small. Then she noticed broken stems and several bare patches of soil. People were using the shortcut to reach a popular picnic spot. Most did not realize that the tiny green shoots beneath their feet would become flowers.\n\nLin photographed the damaged area and showed the pictures to Mr Zhou, the park keeper. He explained that plants needed time to recover and that visitors still needed a clear route. The club could help, but any plan had to protect the flowers without making people feel unwelcome. Lin opened her notebook and began to draw.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: At the next club meeting, Lin shared her plan.\nParagraph 2: Several weeks later, the club returned to the riverside.",
+          "checklist": [
+            "我明确了保护野花与便利游客之间的矛盾",
+            "我注意到照片、笔记本和公园管理员等线索",
+            "我设计了引导游客并逐步观察恢复的合理结局"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "At the next club meeting, Lin shared her plan. With Mr Zhou's approval, the students would make friendly signs pointing visitors toward the existing path. They would also create a display explaining the lives hidden among the flowers. Some members designed pictures, while others wrote short messages. On Saturday, Mr Zhou helped them put everything in place. Visitors began following the signs, and several stopped to ask about the plants.\n\nSeveral weeks later, the club returned to the riverside. The bare patches had not disappeared, but new shoots were growing along their edges. Lin was happy. Nearby, a father reminded his daughter to stay on the path. Lin took another photograph and compared it with the first. Their work had not repaired nature overnight, but it had given both the plants and the visitors a chance to change.",
+          "feedback": {
+            "snippet": "Lin was happy.",
+            "heading": "用故事里的线索表达喜悦",
+            "explanation": "让笔记本或对比照片再次出现，把喜悦与可见变化联系起来，形成前后照应。",
+            "before": "Lin was happy.",
+            "after": "Lin circled the new shoots in her notebook, a smile slowly spreading across her face."
+          }
+        },
+        {
+          "id": "respect-life",
+          "type": "continuation",
+          "genre": "敬畏生命",
+          "group": "人与自然",
+          "name": "敬畏生命 · 等待一双翅膀",
+          "title": "等待一双翅膀",
+          "summary": "看到蝴蝶艰难破蛹，Mei 想立即帮忙，最终在观察与请教中理解生命自己的节奏。",
+          "short": "读后续写",
+          "max": 25,
+          "target": 150,
+          "time": 35,
+          "prompt": "For their biology project, Mei's class was observing butterflies in a habitat borrowed from a local nature center. Each student kept a diary of the changes. Mei checked the habitat every morning and had drawn the same small chrysalis for nearly a week.\n\nOne afternoon, a tiny opening finally appeared. A butterfly began pushing its way out, but its progress seemed painfully slow. Mei watched the delicate creature struggle and wondered whether it needed help. She reached toward a pair of small scissors on the desk.\n\nBefore she touched them, her partner, Jun, reminded her of their teacher's instruction: observe carefully and ask before interfering. Mei paused. She wanted the butterfly to survive, yet she did not understand what its struggle meant. Leaving the scissors where they were, she hurried to find their biology teacher.\n\n请根据原创材料和以下两段首句续写两段，词数应为 150 左右。\nParagraph 1: Their teacher returned with Mei and stood beside the habitat.\nParagraph 2: The following morning, Mei arrived at school earlier than usual.",
+          "checklist": [
+            "我理解了想帮助蝴蝶与不了解生命过程之间的冲突",
+            "我注意到未使用的剪刀、观察日记和教师指导等线索",
+            "我安排了尊重生命节奏且不强行干预的结局"
+          ],
+          "dimensions": [
+            [
+              "情节与原文衔接",
+              10
+            ],
+            [
+              "语言表达",
+              10
+            ],
+            [
+              "篇章组织",
+              5
+            ]
+          ],
+          "sample": "Their teacher returned with Mei and stood beside the habitat. Instead of reaching inside, she encouraged the students to watch quietly. She explained that emerging and allowing its wings to develop were parts of the butterfly's natural process. They should avoid unnecessary interference and contact the nature center if they remained concerned. Mei put her notebook on the desk and recorded what she saw. She decided to wait.\n\nThe following morning, Mei arrived at school earlier than usual. A butterfly rested on a branch, its wings now open. Mei felt amazed. After checking with the nature center, the teacher arranged its release in the school garden. The class watched it rise above the flowers. In her diary, Mei added one final sentence beneath her drawings: “Caring for life begins with trying to understand it.” The scissors remained untouched in the classroom drawer.",
+          "feedback": {
+            "snippet": "Mei felt amazed.",
+            "heading": "通过观察细节呈现敬畏",
+            "explanation": "描写人物注视翅膀时的动作，让理解和尊重从观察中自然产生。",
+            "before": "Mei felt amazed.",
+            "after": "Mei leaned closer to the glass, hardly daring to breathe as she traced the delicate patterns with her eyes."
+          }
+        }
+      ]
+    }
+  ]
+}

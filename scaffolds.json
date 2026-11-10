@@ -1,0 +1,1188 @@
+{
+  "email": {
+    "focus": "用自然、友好的语气与笔友交流一项具体变化，形成双向沟通。",
+    "framework": [
+      {
+        "label": "称呼与近况",
+        "guidance": "使用适合熟悉笔友的称呼，用简短问候引入新学期。"
+      },
+      {
+        "label": "变化与感受",
+        "guidance": "集中写一项活动或学习变化，再说明感受、影响或下一步安排。"
+      },
+      {
+        "label": "互动与结束",
+        "guidance": "提出与话题有关的问题，期待回复，并使用邮件结束语和署名。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I have recently started [activity].",
+        "usage": "介绍最近发生的一项变化。"
+      },
+      {
+        "phrase": "What I enjoy most is [specific feature].",
+        "usage": "用细节说明自己的感受。"
+      },
+      {
+        "phrase": "Have you tried [activity] this term?",
+        "usage": "把单向介绍转为与笔友交流。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种内容安排更符合这封邮件的交际目的？",
+      "options": [
+        "逐项列出所有课程，不提自己的感受。",
+        "介绍一个新活动及感受，再询问对方近况。",
+        "只介绍英语节时间，要求对方立即参加。"
+      ],
+      "answer": 1,
+      "explanation": "笔友邮件既要让对方了解你的变化，也要留出互动空间；一项具体经历比课程清单更有信息。"
+    },
+    "transferPrompt": "先用中文列出“一项变化—一个具体感受—一个想问 Alex 的问题”，再用一个句型试写一句。"
+  },
+  "invitation": {
+    "focus": "让外教知道活动安排、受邀角色和回复方式，邀请语气礼貌得体。",
+    "framework": [
+      {
+        "label": "开篇邀请",
+        "guidance": "说明活动名称与写信目的，避免把邀请写成命令。"
+      },
+      {
+        "label": "活动与角色",
+        "guidance": "交代时间、地点和主要活动，再说明希望 Chris 担任什么角色以及原因。"
+      },
+      {
+        "label": "期待回复",
+        "guidance": "询问是否方便参加，表达期待并按书信格式结束。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I am writing to invite you to [event].",
+        "usage": "直接、礼貌地交代邀请目的。"
+      },
+      {
+        "phrase": "The event will take place at [place] on [date].",
+        "usage": "准确交代活动时间地点。"
+      },
+      {
+        "phrase": "Would you be willing to [role or action]?",
+        "usage": "提出需要对方确认的具体邀请。"
+      }
+    ],
+    "analysis": {
+      "question": "写给外教 Chris 的邀请，哪句话最合适？",
+      "options": [
+        "You must come and be our judge.",
+        "I want you here, so do not be late.",
+        "Would you be willing to serve as a judge?"
+      ],
+      "answer": 2,
+      "explanation": "would you be willing to 允许对方选择，也清楚说明受邀角色；命令式措辞不适合邀请。"
+    },
+    "transferPrompt": "先列出 Chris 需要知道的四项信息：何时、何地、什么活动、担任什么角色。再套用一个礼貌邀请句型。"
+  },
+  "advice": {
+    "focus": "先理解朋友害怕犯错的处境，再提出两条可执行且有理由的建议。",
+    "framework": [
+      {
+        "label": "表达理解",
+        "guidance": "回应对方不敢发言的具体困扰，避免责备。"
+      },
+      {
+        "label": "建议与理由",
+        "guidance": "每条建议都写清做什么、怎样做以及可能带来的帮助。"
+      },
+      {
+        "label": "鼓励行动",
+        "guidance": "鼓励从一个小目标开始，保持支持性语气。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I understand how you feel about [difficulty].",
+        "usage": "先回应对方的感受。"
+      },
+      {
+        "phrase": "You could try [specific action], which may help you [benefit].",
+        "usage": "把建议与作用连接起来。"
+      },
+      {
+        "phrase": "Why not start with [small step]?",
+        "usage": "把大目标拆成可尝试的一步。"
+      }
+    ],
+    "analysis": {
+      "question": "哪条建议最具体、最容易开始执行？",
+      "options": [
+        "每天录一段一分钟的英语，再回听一个需要改进的地方。",
+        "你应该把所有英语都学好。",
+        "不要紧张，要自信。"
+      ],
+      "answer": 0,
+      "explanation": "具体行动包含频率、时长或方法，学生才能据此开始；“自信”可以鼓励，但不能替代方法。"
+    },
+    "transferPrompt": "为 Alex 写“两条行动＋各自的理由”，检查能否在明天开始其中一条，再试写建议句。"
+  },
+  "thanks": {
+    "focus": "用一件具体的帮助及其影响，让感谢有依据、有温度。",
+    "framework": [
+      {
+        "label": "直接致谢",
+        "guidance": "说明感谢谁、因为什么事件而感谢。"
+      },
+      {
+        "label": "细节与影响",
+        "guidance": "回顾 Emma 的一项具体帮助，写出它怎样改变自己的准备或表现。"
+      },
+      {
+        "label": "收获与祝愿",
+        "guidance": "概括所得的信心或方法，并表达真诚祝愿。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Thank you for [specific help].",
+        "usage": "明确感谢的事由。"
+      },
+      {
+        "phrase": "Your [action or quality] helped me [change].",
+        "usage": "把帮助与实际影响联系起来。"
+      },
+      {
+        "phrase": "I will remember [lesson or support] when I [future situation].",
+        "usage": "让感谢延伸为自己的收获。"
+      }
+    ],
+    "analysis": {
+      "question": "哪条细节最能支撑这封感谢信？",
+      "options": [
+        "Emma 是一个非常好、非常棒的人。",
+        "Emma 耐心陪我练习，并教我用关键词代替逐字背稿。",
+        "我喜欢所有英语活动。"
+      ],
+      "answer": 1,
+      "explanation": "具体帮助和它带来的改变，比重复赞美或感谢更能让读者理解你的心意。"
+    },
+    "transferPrompt": "写下“Emma 做了什么—我遇到的问题如何改变”，再用 helped me 句型连接这两点。"
+  },
+  "apology": {
+    "focus": "承认未按时还书的责任，并提出清楚、可落实的补救办法。",
+    "framework": [
+      {
+        "label": "承认与道歉",
+        "guidance": "点明失约的具体事项和给朋友造成的不便。"
+      },
+      {
+        "label": "解释与担责",
+        "guidance": "简要说明原因，不把疏忽推给别人。"
+      },
+      {
+        "label": "具体补救",
+        "guidance": "说明何时、何地或怎样归还，并再次表达歉意。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I am sorry for [specific mistake].",
+        "usage": "直接说明道歉的事情。"
+      },
+      {
+        "phrase": "I understand that this may have caused [inconvenience].",
+        "usage": "承认自己的行为对别人造成影响。"
+      },
+      {
+        "phrase": "To make up for this, I will [action] by [time].",
+        "usage": "把补救落到行动和时间。"
+      }
+    ],
+    "analysis": {
+      "question": "哪项承诺最能体现对这次失约负责？",
+      "options": [
+        "明天第一节课前，把书送到 Sam 的教室。",
+        "以后我会尽量做一个好人。",
+        "有空时我可能会把书还给你。"
+      ],
+      "answer": 0,
+      "explanation": "明确时间和方式，才能让对方安排后续阅读；模糊承诺不足以补救已经发生的失约。"
+    },
+    "transferPrompt": "先写清自己的责任，再拟一项包含具体时间与方式的补救措施；用一个句型试写。"
+  },
+  "help": {
+    "focus": "把求助范围说具体，尊重外教的时间，让请求容易回应。",
+    "framework": [
+      {
+        "label": "任务与困难",
+        "guidance": "交代正在准备校园导览，以及卡在哪个具体环节。"
+      },
+      {
+        "label": "明确求助",
+        "guidance": "限定希望检查的段落或表达，不笼统要求对方重写全部内容。"
+      },
+      {
+        "label": "时间与感谢",
+        "guidance": "提出可商量的提交方式和时间，并感谢对方考虑。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I am working on [task], but I am unsure about [difficulty].",
+        "usage": "简要交代求助背景。"
+      },
+      {
+        "phrase": "Could you give me some advice on [specific part]?",
+        "usage": "限定帮助的范围。"
+      },
+      {
+        "phrase": "If it is convenient, may I [method] by [time]?",
+        "usage": "体谅对方安排，协商帮助方式。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种请求最方便 Mr Brown 判断能否帮忙？",
+      "options": [
+        "帮我把英语都变好。",
+        "请替我完成所有导览工作。",
+        "请检查开头和两处社团介绍是否自然，我可以周三发短稿。"
+      ],
+      "answer": 2,
+      "explanation": "具体范围、可提供的材料与商量的时间，会减少对方理解和回应请求的负担。"
+    },
+    "transferPrompt": "列出“目前任务—一个困难—希望检查的两处内容—可商量的时间”，再试写一条具体请求。"
+  },
+  "recommendation": {
+    "focus": "为读书会推荐具体书目，让内容特点、推荐理由与共读活动相互支持。",
+    "framework": [
+      {
+        "label": "点明书目",
+        "guidance": "说明推荐哪本书，以及写信目的。"
+      },
+      {
+        "label": "特点与理由",
+        "guidance": "简述内容或人物特点，说明它为什么适合高中生和读书会。"
+      },
+      {
+        "label": "共读建议",
+        "guidance": "提出一个可开展的讨论活动，并表达期待。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I would like to recommend [book] for [purpose].",
+        "usage": "明确推荐对象与用途。"
+      },
+      {
+        "phrase": "What makes it suitable is [feature and reason].",
+        "usage": "把书的特点与读者需要连接。"
+      },
+      {
+        "phrase": "We could discuss how [character or idea] [changes or matters].",
+        "usage": "提出可执行的共读讨论方向。"
+      }
+    ],
+    "analysis": {
+      "question": "哪一项最能支持读书会选用这本书？",
+      "options": [
+        "书很有名，所以不用说明内容。",
+        "人物的变化清楚，可用于讨论成长，并可选一个情节交流。",
+        "只说封面颜色很好看。"
+      ],
+      "answer": 1,
+      "explanation": "推荐理由应回应共读目的；内容特点和具体讨论方式能帮助负责人判断是否适合。"
+    },
+    "transferPrompt": "选定一本自己熟悉的书，列“一项特点—适合高中生的原因—一个讨论问题”，再写推荐句。"
+  },
+  "application": {
+    "focus": "围绕英文导览志愿者岗位，用相关经历证明能力，而不只罗列优点。",
+    "framework": [
+      {
+        "label": "岗位与动机",
+        "guidance": "明确申请哪个岗位，以及为什么希望参与。"
+      },
+      {
+        "label": "能力与证据",
+        "guidance": "选择一项相关经历，说明做过什么、学会什么以及如何胜任。"
+      },
+      {
+        "label": "安排与期待",
+        "guidance": "交代可参与时间，表达愿意进一步沟通。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I am writing to apply for [position].",
+        "usage": "点明申请岗位。"
+      },
+      {
+        "phrase": "My experience of [activity] has helped me develop [relevant ability].",
+        "usage": "用经历支撑岗位能力。"
+      },
+      {
+        "phrase": "I would welcome the opportunity to [next step].",
+        "usage": "得体表达进一步沟通或服务意愿。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种材料最能证明申请者适合英文导览岗位？",
+      "options": [
+        "我很好、很棒、很优秀。",
+        "我喜欢一切课外活动。",
+        "我曾用英语向来访学生介绍图书馆，并耐心回答问题。"
+      ],
+      "answer": 2,
+      "explanation": "相关经历能提供可观察的能力证据；空泛形容词或与岗位无关的爱好说服力较弱。"
+    },
+    "transferPrompt": "写“岗位需要的一种能力—证明它的一次经历—可服务时间”，尝试用经历句型连接前两项。"
+  },
+  "informing": {
+    "focus": "面向即将到校的 Alex 说明接待安排，让对方知道何时到哪里、需要准备什么。",
+    "framework": [
+      {
+        "label": "说明事由",
+        "guidance": "回应 Alex 即将到校，并引出第一天的个人安排。"
+      },
+      {
+        "label": "按序告知",
+        "guidance": "按时间顺序交代见面地点、校园活动与主要安排。"
+      },
+      {
+        "label": "提醒与联系",
+        "guidance": "说明携带物品、变化时的联系方法，并表达期待。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Here are the arrangements for [occasion].",
+        "usage": "引出需要告知的信息。"
+      },
+      {
+        "phrase": "We will meet at [place] at [time].",
+        "usage": "提供可执行的见面信息。"
+      },
+      {
+        "phrase": "Please remember to bring [item] for [purpose].",
+        "usage": "提醒准备事项并说明用途。"
+      }
+    ],
+    "analysis": {
+      "question": "告知信与全校通知相比，这道题更需要哪项处理？",
+      "options": [
+        "用 Dear Alex 称呼个人，围绕他的到校安排组织信息。",
+        "不说明收信人，只面向所有学生报名。",
+        "用口号吸引路过的人参加旧书交换。"
+      ],
+      "answer": 0,
+      "explanation": "这是个人接待告知，交流对象和安排具有针对性；公开通知则面向一群读者发布共同事项。"
+    },
+    "transferPrompt": "按先后列出“见面—参观或上课—准备与联系”，检查见面信息能否让 Alex 直接照着执行。"
+  },
+  "notice": {
+    "focus": "用书面通知发布全校共同行动信息，突出活动、准备要求和报名截止时间。",
+    "framework": [
+      {
+        "label": "标题与事项",
+        "guidance": "使用通知标题，直接说明英语短剧工作坊。"
+      },
+      {
+        "label": "核心信息",
+        "guidance": "交代周五时间、图书馆活动室、主要内容和准备物品。"
+      },
+      {
+        "label": "报名与落款",
+        "guidance": "写清周四前向谁报名，并使用发布单位或必要日期。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "A [workshop or activity] will be held at [place] on [date].",
+        "usage": "客观说明公开活动安排。"
+      },
+      {
+        "phrase": "Participants are expected to bring [item].",
+        "usage": "明确参加者需要准备什么。"
+      },
+      {
+        "phrase": "Please sign up with [organizer] before [deadline].",
+        "usage": "突出报名渠道与截止时间。"
+      }
+    ],
+    "analysis": {
+      "question": "哪一组信息应在这则工作坊通知中最醒目？",
+      "options": [
+        "写信人上周的心情与私人问候。",
+        "周五活动时间地点、准备要求和周四报名截止。",
+        "小说中人物的心理变化。"
+      ],
+      "answer": 1,
+      "explanation": "通知首先帮助读者决定是否参加并完成准备和报名；私人问候会分散关键信息。"
+    },
+    "transferPrompt": "用五个关键词列出“活动—何时—何地—准备—报名”，再试写一句包含截止时间的通知句。"
+  },
+  "speech": {
+    "focus": "面向现场听众讲清绿色校园与日常生活的关系，用可行行动带动参与。",
+    "framework": [
+      {
+        "label": "称呼与引入",
+        "guidance": "向听众问好，用一个校园情境或问题引出绿色校园。"
+      },
+      {
+        "label": "理由与行动",
+        "guidance": "简述意义，提出两项学生真正可以做到的行动。"
+      },
+      {
+        "label": "呼吁与致谢",
+        "guidance": "用简短、有参与感的号召收束，并感谢倾听。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Have you ever noticed [campus situation]?",
+        "usage": "用与听众有关的问题引入。"
+      },
+      {
+        "phrase": "By [small action], we can [shared benefit].",
+        "usage": "把日常行动与共同收益连接。"
+      },
+      {
+        "phrase": "Let us start with [action] today.",
+        "usage": "用有力量但可执行的呼吁结束。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种结尾更适合绿色校园日的演讲？",
+      "options": [
+        "逐字重复所有段落，再增加五个新论点。",
+        "如有需要请给我寄信，期待私人回复。",
+        "Let us turn off unused lights and make our campus greener, one action at a time."
+      ],
+      "answer": 2,
+      "explanation": "演讲结尾应回扣主题、鼓励现场行动；新的复杂论点或私人书信结尾不适合收束。"
+    },
+    "transferPrompt": "列一个校园现象、两项具体行动和一句现场号召，再选择一个句型试写，不写完整演讲。"
+  },
+  "proposal": {
+    "focus": "以学生会名义说明旧书交换的共同价值，并把倡议化成清楚的参与步骤。",
+    "framework": [
+      {
+        "label": "对象与缘由",
+        "guidance": "面向同学说明闲置好书可以继续发挥价值。"
+      },
+      {
+        "label": "行动与理由",
+        "guidance": "倡议带一本保存完好的书和推荐卡，说明分享、节约或交流的意义。"
+      },
+      {
+        "label": "参与与号召",
+        "guidance": "交代周五午间图书馆收集处等操作信息，并用组织署名结束。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "We call on everyone to [shared action].",
+        "usage": "面向群体发出倡议。"
+      },
+      {
+        "phrase": "To take part, please [clear first step].",
+        "usage": "给读者一个可开始的参与步骤。"
+      },
+      {
+        "phrase": "Together, we can [shared goal].",
+        "usage": "用共同价值增强参与意愿。"
+      }
+    ],
+    "analysis": {
+      "question": "哪一项让倡议从“有意义”变成“可以行动”？",
+      "options": [
+        "带一本完好图书和推荐卡，周五午间送到图书馆收集处。",
+        "只说读书很重要，请大家支持。",
+        "只列出全校每个人的名字。"
+      ],
+      "answer": 0,
+      "explanation": "倡议既要说明为什么，也要说明怎样参与；明确物品、时间和地点能帮助读者采取行动。"
+    },
+    "transferPrompt": "写出“共同价值—带什么—何时送到哪里—一句号召”，再用 call on 或 take part 句型试写。"
+  },
+  "diary": {
+    "focus": "用第一人称回顾一次志愿经历，把事件经过与个人认识联系起来。",
+    "framework": [
+      {
+        "label": "日期与背景",
+        "guidance": "按日记习惯标注必要的日期、天气，交代当天任务。"
+      },
+      {
+        "label": "困难与行动",
+        "guidance": "用过去时写一个具体困难，以及自己采取的解决办法。"
+      },
+      {
+        "label": "感受与反思",
+        "guidance": "写经历带来的认识，避免只用 happy 或 good 概括。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "At first, I found it difficult to [task].",
+        "usage": "交代当时遇到的具体困难。"
+      },
+      {
+        "phrase": "After [action], I gradually learned to [skill].",
+        "usage": "连接解决行动与逐步变化。"
+      },
+      {
+        "phrase": "This experience taught me that [personal insight].",
+        "usage": "把事件写成有依据的反思。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种结尾更符合这篇图书馆志愿日记？",
+      "options": [
+        "因此我邀请全体师生周五报名演讲。",
+        "帮助低年级同学找书让我明白，细心完成小事也能帮助他人。",
+        "Dear Sir or Madam, I look forward to your interview."
+      ],
+      "answer": 1,
+      "explanation": "日记记录个人经历与认识，反思应来自当天事件；活动通知和申请信结尾不适合该文体。"
+    },
+    "transferPrompt": "画出“遇到困难—我采取的行动—结果—我的认识”四格，再用过去时写一处关键行动。"
+  },
+  "poster": {
+    "focus": "用醒目的标题和简短信息块，让路过的读者快速了解 Book Swap 并知道如何参加。",
+    "framework": [
+      {
+        "label": "标题与吸引点",
+        "guidance": "使用简洁标题和一句紧扣交换图书的吸引语。"
+      },
+      {
+        "label": "信息块",
+        "guidance": "把时间、地点、携带物品和登记方式分项展示，避免长段堆叠。"
+      },
+      {
+        "label": "行动号召",
+        "guidance": "用简短有力的参与号召收尾，突出交换与结识读者的特点。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Bring [item]. Discover [new possibility].",
+        "usage": "用简短并列句突出活动特色。"
+      },
+      {
+        "phrase": "WHEN: [time] | WHERE: [place]",
+        "usage": "用易扫读的信息标签交代安排。"
+      },
+      {
+        "phrase": "Sign up with [organizer] before [deadline].",
+        "usage": "明确报名方式与期限。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种排版最能帮助读者快速扫读这张海报？",
+      "options": [
+        "把所有信息合成一个没有标点的长段。",
+        "先用三段介绍自己的姓名和学习经历。",
+        "醒目标题后用 WHEN、WHERE、BRING、HOW TO JOIN 分块。"
+      ],
+      "answer": 2,
+      "explanation": "海报需要快速吸引和传递信息；清楚的标签与短句能帮助读者抓住参与条件。"
+    },
+    "transferPrompt": "先写一个英文标题，再列四个信息标签及关键词，最后试写一句与旧书交换有关的号召。"
+  },
+  "personal-growth": {
+    "focus": "用主动补救的小行动，呈现 Leo 从敷衍到负责的变化。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "圈出归还清单、错放的海洋故事书、门边纸箱和即将开始的故事会。它们都能成为后续行动的依据。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "从查书架承接首句，安排找书、回应小女孩和整理空间；段末要能接上第二段“整洁的阅读角”。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接图书管理员返回，写 Leo 如何说明错误、承担后续任务，以及对方的具体回应。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用一个更认真做事的动作呼应责任主题，不必靠获奖或长篇说教升华。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Checking [a clue] carefully, [character] noticed [detail].",
+        "usage": "把观察线索转化为行动。"
+      },
+      {
+        "phrase": "Instead of [old behavior], he chose to [responsible action].",
+        "usage": "对照前后选择表现成长。"
+      },
+      {
+        "phrase": "For the first time, he understood what it meant to [value].",
+        "usage": "在具体事件后简短表达认识。"
+      }
+    ],
+    "analysis": {
+      "question": "第一段结束前必须合理完成什么，才能接上第二段首句？",
+      "options": [
+        "孩子们已经离开学校，故事会被永久取消。",
+        "阅读角已被整理好，孩子们能够安坐等候。",
+        "Leo 立刻成为世界著名作家。"
+      ],
+      "answer": 1,
+      "explanation": "第二段首句已经限定“整洁的阅读角”这一结果，因此第一段要安排足够的补救行动。"
+    },
+    "transferPrompt": "列出三项 Leo 能立即做的补救动作，并用箭头把最后一项接到第二段首句。"
+  },
+  "overcome-shyness": {
+    "focus": "让小地图和逐步开口的行动推动 Nina 面对胆怯，而不是突然完全不紧张。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "关注旧桥故事、小地图、哥哥的建议和发抖的双手；地图能帮助她组织表达。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "从放好地图、深呼吸进入讲述，可写短暂停顿后继续，段末完成展示。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "回应同学举手：安排一个与旧桥内容有关的问题，让 Nina 从被观看转为交流。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用她愿意继续分享的行动体现勇气；勇敢可以与紧张同时存在。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "With [supporting object] in front of her, she began to [small action].",
+        "usage": "用原文物件帮助人物迈出一步。"
+      },
+      {
+        "phrase": "Her voice [changed], but she continued with [detail].",
+        "usage": "保留紧张并写出坚持。"
+      },
+      {
+        "phrase": "When asked about [topic], she found herself [response].",
+        "usage": "把展示结局延伸为交流。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种变化最符合 Nina 的处境和原文线索？",
+      "options": [
+        "她借地图讲出第一句，仍有紧张，但慢慢能够继续。",
+        "她忘记地图，立刻像专业主持人一样流利演讲。",
+        "她转而介绍与旧桥完全无关的实验。"
+      ],
+      "answer": 0,
+      "explanation": "地图是原文设置的帮助线索；渐进变化比没有铺垫的彻底转变更可信。"
+    },
+    "transferPrompt": "写“紧张的一个身体细节—借地图做的一个动作—同学可能提出的一个相关问题”。"
+  },
+  "overcome-setback": {
+    "focus": "把失败变成观察和调整设计的机会，用可见的尝试呈现战胜挫折。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "找出纸桥中央坍塌、两侧较牢固、笔记草图、剩余纸张和只许纸与胶水的规则。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "从检查断桥开始，让两人依据薄弱部位讨论、简化和测试；为次日的新桥做好铺垫。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "写新桥接受测试时的动作与合作，结果可合理改善，不要求必须获第一名。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用保留失败记录或继续改进的决定，表现从放弃到愿意学习的转变。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Looking closely at [failed part], they realized that [cause].",
+        "usage": "从失败细节找到改进方向。"
+      },
+      {
+        "phrase": "After several attempts, they decided to [adjustment].",
+        "usage": "用尝试过程避免突然成功。"
+      },
+      {
+        "phrase": "Whether or not [result], they had learned to [process].",
+        "usage": "让主题落在过程与能力上。"
+      }
+    ],
+    "analysis": {
+      "question": "哪项情节最符合这次设计挑战的规则？",
+      "options": [
+        "偷偷换成金属桥以确保承重。",
+        "跳过观察，宣布所有失败都没有价值。",
+        "利用剩余纸和胶水调整中心结构，再小步测试。"
+      ],
+      "answer": 2,
+      "explanation": "续写需要尊重原文规则；观察薄弱部位并在限制内调整，才能体现合理的应对挫折。"
+    },
+    "transferPrompt": "列“发现的问题—一次符合规则的调整—一次测试—人物态度的变化”，再试写行动连接句。"
+  },
+  "self-acceptance": {
+    "focus": "让 Ava 从颜色背后的个人记忆中理解自己的表达价值，而不是贬低写实风格。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "关注祖母厨房、黄色窗光、其他鲜亮颜色、Ruby 的询问和被遮住的原画。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "承接解释其他颜色，把颜色与记忆联系起来，并呈现 Ruby 的倾听或回应。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "在展览现场写 Ava 如何介绍自己的画、回应观看者，不必让两种画风比较输赢。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用愿意展示个人故事的动作呼应自我接纳，保留她独特的色彩选择。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "The color reminded her of [personal memory].",
+        "usage": "让视觉细节承载个人经历。"
+      },
+      {
+        "phrase": "As she explained [detail], her [gesture or expression] began to change.",
+        "usage": "用讲述过程呈现态度变化。"
+      },
+      {
+        "phrase": "Her work did not look like [another style], but it expressed [meaning].",
+        "usage": "承认差异而不否定任何一种风格。"
+      }
+    ],
+    "analysis": {
+      "question": "哪个结尾更能体现自我接纳？",
+      "options": [
+        "宣布写实绘画都没有价值。",
+        "Ava 自信地解释厨房颜色的记忆，并欣赏自己和 Ruby 的不同表达。",
+        "Ava 把原画藏起，完全照抄 Ruby 的画。"
+      ],
+      "answer": 1,
+      "explanation": "自我接纳是理解自身表达的价值，不是通过否定别人或赢得奖项证明自己。"
+    },
+    "transferPrompt": "为厨房的两种颜色各写一段记忆关键词，再拟一句 Ava 在展览上可以解释的个人意义。"
+  },
+  "reconciliation": {
+    "focus": "让道歉回应误会的真实原因，用倾听和合作体现关系修复。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "确认缺页在 Emma 自己的课本里，Mia 曾想解释，模型尚未完成；责任不能转嫁给 Mia。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "承接 Emma 走近朋友，安排承认错误、给对方回应空间，再通过共同修模型接上第二段。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接完成的模型，用两人的交流或配合体现关系改善，比赛名次可以留白。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "让“先听解释”在一次具体互动中出现，避免只写一句空泛的友谊感言。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "I should have [better action] instead of [mistake].",
+        "usage": "具体承认处理事情时的错误。"
+      },
+      {
+        "phrase": "For a moment, [character] remained silent before [response].",
+        "usage": "给复杂情绪和回应留出时间。"
+      },
+      {
+        "phrase": "Working side by side, they began to [shared action].",
+        "usage": "通过共同任务呈现关系修复。"
+      }
+    ],
+    "analysis": {
+      "question": "Emma 的道歉最需要承认哪一点？",
+      "options": [
+        "自己没有听解释，就在查清事实前责怪了朋友。",
+        "Mia 没有把所有工作独自完成。",
+        "科学比赛的规则不公平。"
+      ],
+      "answer": 0,
+      "explanation": "原文的冲突来自未经核实的指责；具体承认错误，才有理由进入关系修复。"
+    },
+    "transferPrompt": "先写一句明确承担责任的道歉，再列出 Mia 可能的回应与两人重新合作的一个动作。"
+  },
+  "teacher-care": {
+    "focus": "用老师耐心的支持和学生自己的尝试，呈现一段可信的信任与成长。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "注意写给祖父的故事、小星号、空椅子以及老师“不打断地倾听”；这些支持方式比说教更有作用。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "承接“只讲给一个人听”，写一次具体练习：停顿、重试、老师等待或反馈。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "用星号触发回忆，写正式上台时学生如何借助练习继续表达，同时保留适度紧张。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用师生一个简短回应收束，突出被倾听后建立的信任，不需要突然成为演讲冠军。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Instead of interrupting, [teacher] waited until [action].",
+        "usage": "用耐心的行为呈现支持。"
+      },
+      {
+        "phrase": "The small [object] reminded him of [support].",
+        "usage": "让前文物件在正式情境中回扣。"
+      },
+      {
+        "phrase": "His voice trembled at first, yet he [continued action].",
+        "usage": "表现带着紧张继续行动。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种写法最能体现这道题的“师生温暖”？",
+      "options": [
+        "只让老师说“不要紧张”，学生立即毫无困难地成功。",
+        "让比赛奖品的描写占据整段。",
+        "写老师耐心等待学生重试，学生后来借此完成自己的表达。"
+      ],
+      "answer": 2,
+      "explanation": "温暖来自具体支持及其对学生行动的影响；学生仍应是完成任务的主体。"
+    },
+    "transferPrompt": "写下老师的一项支持行为、Daniel 对它的反应，以及星号在第二段可以触发的一个动作。"
+  },
+  "kindness": {
+    "focus": "用安抚、等候和蓝色雨伞的回扣呈现陌生人之间的善意。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "关注学校门口、工作人员已联系家人、男孩的害怕、母亲知情和蓝色雨伞；后续要尊重这些安排。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "从坐下交谈开始，以倾听或小互动让男孩逐渐放松，并留出爷爷到来的时间。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接老人出现，写确认身份、团聚与感谢，再安排雨伞如何合理回应善意。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用一个小动作回扣雨伞，不要突然转向宏大捐赠或与原文无关的冒险。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Gradually, [sign of fear] gave way to [calmer action].",
+        "usage": "用可观察细节呈现安抚效果。"
+      },
+      {
+        "phrase": "At the sight of [familiar person], [character] [reaction].",
+        "usage": "承接到来情节写自然反应。"
+      },
+      {
+        "phrase": "The small [object] now seemed to carry [meaning].",
+        "usage": "让原文物件在结尾获得情感意义。"
+      }
+    ],
+    "analysis": {
+      "question": "第一段最需要为第二段做哪项铺垫？",
+      "options": [
+        "让 Lily 把男孩带去陌生地方，使家人找不到他。",
+        "让男孩在安全地点得到安抚，继续等待家人到来。",
+        "让蓝色雨伞变成毫无来由的比赛奖品。"
+      ],
+      "answer": 1,
+      "explanation": "原文已安排在校门口等候并联系家人；后续应沿着安全等候和情绪缓和推进。"
+    },
+    "transferPrompt": "列“Lily 的一个安抚问题—男孩从哭到放松的一个动作—雨伞在结尾的一个作用”。"
+  },
+  "honesty-gratitude": {
+    "focus": "让归还零钱的选择与过去得到的帮助相连，用画作承载反思。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "记住多找的二十元、想买的彩铅、Mr Wu 过去的信任和新素描本，避免无关的经济奖励情节。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "从走回柜台承接，写说清情况、归还钱款及店主回应，可自然提及曾得到的信任。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接美术课打开素描本，用画什么、怎样解释画作来回扣那次选择。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用画作标题或一处细节说明记住的价值，让诚信不依赖奖赏。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "For a moment, he thought of [temptation], then remembered [past kindness].",
+        "usage": "呈现选择背后的心理过程。"
+      },
+      {
+        "phrase": "Placing [object] on the counter, he explained that [fact].",
+        "usage": "用动作连接诚实表达。"
+      },
+      {
+        "phrase": "On the page, [visual detail] reminded him of [choice].",
+        "usage": "用画面承载感悟。"
+      }
+    ],
+    "analysis": {
+      "question": "哪项情节最贴合“诚信感恩”的主题？",
+      "options": [
+        "Ben 主动归还多出的零钱，再用素描记录这次选择。",
+        "Ben 因为店主承诺巨额奖金才还钱。",
+        "Ben 隐瞒零钱，并把购物经历改成野外探险。"
+      ],
+      "answer": 0,
+      "explanation": "原文的诱惑与过去受到的信任相互对应；主动选择和后续反思，比外在大奖更能支撑主题。"
+    },
+    "transferPrompt": "给素描本设计一个简短画面说明：画什么物件或动作？它怎样回扣归还零钱的选择？"
+  },
+  "cultural-experience": {
+    "focus": "把剪纸技艺的学习与人与人的交流放在一起，写出文化体验中的理解。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "找出剪断连接处导致花瓣散落的原因，以及 Lin 提到的祖母经验；失败要有对应的解决过程。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "从拿新纸再试承接，写一项可见的操作指导，并让对话自然涉及作品背后的心意。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接把花举到窗前，描写作品一处细节及 Sophie 对再次尝试、分享或文化的理解。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "允许作品不完美，用新的兴趣或交流愿望收束，不必大段介绍与情节无关的历史知识。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "This time, she checked [detail] before [action].",
+        "usage": "让第二次尝试体现从错误中学习。"
+      },
+      {
+        "phrase": "As they worked, [character] explained what [custom] meant to [people].",
+        "usage": "把文化意义自然放入互动。"
+      },
+      {
+        "phrase": "Though [imperfection], the [object] reminded her of [shared feeling].",
+        "usage": "用不完美作品连接真实体验。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种推进最能同时回应操作困难和文化体验？",
+      "options": [
+        "突然让 Sophie 不经练习便剪出全国最好的作品。",
+        "抛开人物，只列举所有传统节日。",
+        "Lin 指出应保留的连接处，两人边试边交流各自家庭的手工习惯。"
+      ],
+      "answer": 2,
+      "explanation": "具体指导回应失败原因，交流作品背后的心意则推动文化理解；两者都来自原文线索。"
+    },
+    "transferPrompt": "列“一处操作指导—一段与家庭心意有关的交流—作品的一处不完美细节”，再试写连接句。"
+  },
+  "wilderness": {
+    "focus": "用线索和合作呈现冷静等待救援，避免没有依据的冒险脱困。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "关注已共享的位置、留在安全空地的指示、背包物品、红色显眼颜色及口哨。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "承接打开背包，选择有依据的物品帮助保暖、等待或示意；保持人物在安全地点。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接清晰哨声，写回应信号、确认救援人员和在指导下离开，不要凭空瞬间到家。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用对谨慎选择的认识回扣勇气，结尾可以温暖，但要保留合理时间和行动过程。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Remembering [instruction], they decided to [careful action].",
+        "usage": "用既有信息支撑人物决定。"
+      },
+      {
+        "phrase": "The sound of [signal] broke the silence, and [response].",
+        "usage": "承接第二段首句的信号。"
+      },
+      {
+        "phrase": "They followed [guidance] rather than [risky impulse].",
+        "usage": "用选择对比突出冷静合作。"
+      }
+    ],
+    "analysis": {
+      "question": "下列哪项行动最符合原文已作出的安排？",
+      "options": [
+        "在大雾里分头寻找一条从未走过的小路。",
+        "留在已共享位置的安全空地，利用背包物品并回应救援信号。",
+        "关掉所有联系工具，靠猜测跨过断路。"
+      ],
+      "answer": 1,
+      "explanation": "原文明确设置了救援指示和位置共享，续写应利用这些线索，不随意推翻它们。"
+    },
+    "transferPrompt": "用箭头列“背包中的一项物品—等待时的一个动作—听见哨声后的回应—救援衔接”。"
+  },
+  "animal-rescue": {
+    "focus": "用减少干扰和配合专业人员，表现学生对受伤小鸟的关心。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "注意老师已联系救助中心、学生不能自行处理、放学人群靠近以及二十分钟的等待。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "承接请求同学帮助，安排保持距离、引导人群和降低噪声等可行合作。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接专业人员到来，写让出空间、交接信息以及目送救助过程；不把学生写成突然会治疗的专家。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用一次具体领悟或后续消息回扣恰当帮助，尊重动物的需要。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Keeping a safe distance, they [supporting action].",
+        "usage": "把关心写成适当的行为。"
+      },
+      {
+        "phrase": "While waiting for [trained helper], [character] [practical action].",
+        "usage": "让等待阶段也有情节推进。"
+      },
+      {
+        "phrase": "He realized that helping sometimes meant [thoughtful choice].",
+        "usage": "在行动后简短表达理解。"
+      }
+    ],
+    "analysis": {
+      "question": "哪项行动最能体现 Yifan 的恰当帮助？",
+      "options": [
+        "请同学保持距离、引导其他人绕行，等待老师联系的专业人员。",
+        "带回家自行医治，不再联系老师。",
+        "让大家围近拍照，以便制造热闹气氛。"
+      ],
+      "answer": 0,
+      "explanation": "原文已经给出专业救助的前提；学生的作用是减少干扰、提供观察信息并配合救援。"
+    },
+    "transferPrompt": "分配两名同学能做的不同任务，再写专业人员到来时大家如何配合的一个动作。"
+  },
+  "protect-nature": {
+    "focus": "在保护野花与方便游客之间寻找可行办法，用渐进变化呈现行动效果。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "利用被踩的小路、照片、笔记本、公园管理员和已有通道；保护计划需要得到允许。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "承接分享计划，写怎样友好引导、解释原因并与管理员合作，不把游客简单写成坏人。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接几周后回访，对比环境的一处变化与游客的一项行为；恢复可以不完全。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "让照片或笔记本回扣过程，体现小行动的持续意义，不写一夜恢复全部生态。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "With [permission or support], the group began to [plan].",
+        "usage": "让集体行动具有合理条件。"
+      },
+      {
+        "phrase": "Instead of blaming [people], they showed them [alternative].",
+        "usage": "用引导解决人与环境的冲突。"
+      },
+      {
+        "phrase": "Comparing [earlier record] with [new detail], she noticed [gradual change].",
+        "usage": "用前后对照呈现有限但可见的进步。"
+      }
+    ],
+    "analysis": {
+      "question": "哪种回访结果更可信，也更符合主题？",
+      "options": [
+        "第二天所有花朵都恢复，并立即覆盖整个城市。",
+        "游客被永久赶走，不需要任何引导。",
+        "几周后有新芽出现，一些游客开始沿指示走原有小路。"
+      ],
+      "answer": 2,
+      "explanation": "自然恢复需要时间，行为改变也可能逐步发生；有限的进步比瞬间完美更符合原文和现实。"
+    },
+    "transferPrompt": "列“计划的一项具体措施—管理员如何支持—几周后的两项可观察变化”，再用比较句试写。"
+  },
+  "respect-life": {
+    "focus": "让理解生命过程取代急于干预，用耐心观察呈现敬畏与关爱。",
+    "framework": [
+      {
+        "label": "回扣原文线索",
+        "guidance": "保留未被使用的剪刀、老师的观察要求、伙伴提醒、日记和正在破蛹的蝴蝶等线索。"
+      },
+      {
+        "label": "第一段推进",
+        "guidance": "承接老师到来，安排提问、指导观察与等待，避免无依据地伸手剪开或改变生命过程。"
+      },
+      {
+        "label": "第二段回应",
+        "guidance": "承接次日到校，描写观察到的变化与人物反应，必要安排在教师指导下完成。"
+      },
+      {
+        "label": "结尾照应",
+        "guidance": "用日记中的一句认识或剪刀仍未使用的细节回扣主题；感悟应来自观察。"
+      }
+    ],
+    "patterns": [
+      {
+        "phrase": "Before reaching for [object], she paused to [thoughtful action].",
+        "usage": "用停顿表现从冲动到谨慎。"
+      },
+      {
+        "phrase": "Watching [natural detail], she began to understand [idea].",
+        "usage": "把理解建立在观察之上。"
+      },
+      {
+        "phrase": "In her diary, she wrote that [insight].",
+        "usage": "用原文物件自然收束认识。"
+      }
+    ],
+    "analysis": {
+      "question": "哪项情节最能回应“敬畏生命”而不推翻原文？",
+      "options": [
+        "Mei 趁老师不注意立即剪开蛹。",
+        "Mei 在老师指导下继续观察，把新的理解记进日记。",
+        "蝴蝶开口说话，替 Mei 完成整个生物作业。"
+      ],
+      "answer": 1,
+      "explanation": "原文已经让 Mei 放下剪刀并寻求指导；后续需要写理解与耐心，而不是无依据的干预。"
+    },
+    "transferPrompt": "选择一个观察细节、一项等待时的动作和一句日记认识，检查它们是否共同表达对生命的尊重。"
+  }
+}

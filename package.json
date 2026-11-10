@@ -1,0 +1,14 @@
+{
+  "name": "writing-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "高中英语写作单文件学习平台与可复用生成工作流",
+  "engines": {"node": ">=18"},
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/check.mjs"
+  }
+}
